@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kai1r0w
-- 👀 I’m interested in ... cybersecurity, programming, automation, learning all things pertaining to electrical engineering, and computers all together.
-- 🌱 I’m currently learning ... port scans, password, hacking... ethically, of course
+- 👀 I’m interested in ... cybersecurity
+- 🌱 I’m currently learning ... pentesting, python, bug bounty, threat hunting
 - 💞️ I’m looking to collaborate on ...python and pentesting
 - 📫 How to reach me ...
 
