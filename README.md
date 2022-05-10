@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kai1r0w
 - 👀 I’m interested in ... cybersecurity
-- 🌱 I’m currently learning ... pentesting, python, bug bounty, threat hunting
-- 💞️ I’m looking to collaborate on ...python and pentesting
+- 🌱 I’m currently learning ... python, bug bounty, threat hunting, API
+- 💞️ I’m looking to collaborate on ... interesting topics in cybersecurity
 - 📫 How to reach me ...
 
 <!---
